@@ -4,16 +4,16 @@ Hello, I'm Lopamudra Pradhan, a dedicated data scientist with a keen eye for pat
 
 🔬 My toolbox includes:
 
-🤖 Machine Learning and Deep Learning
-📉 Data Analysis and Visualization
-📚 Statistical Modeling
-🐍 Python (NumPy, Pandas, Scikit-Learn)
-📊 Data Visualization (Matplotlib, Seaborn, Plotly)
-🌐 Image Classification
-🧠 Natural Language Processing (NLP)
-💹 Predictive Analytics
-📡 Data
-🛠 Feature Engineering
+- 🤖 Machine Learning and Deep Learning
+- 📉 Data Analysis and Visualization
+- 📚 Statistical Modeling
+- 🐍 Python (NumPy, Pandas, Scikit-Learn)
+- 📊 Data Visualization (Matplotlib, Seaborn, Plotly)
+- 🌐 Image Classification
+- 🧠 Natural Language Processing (NLP)
+- 💹 Predictive Analytics
+- 📡 Data
+- 🛠 Feature Engineering
 
 🌱 I'm constantly exploring new techniques and pushing the boundaries of what data can reveal. From predictive modeling to data-driven decision-making, I'm always excited to tackle challenging problems.
 
