@@ -17,7 +17,7 @@ Hello, I'm Lopamudra Pradhan, a dedicated data scientist with a keen eye for pat
 
 🌱 I'm constantly exploring new techniques and pushing the boundaries of what data can reveal. From predictive modeling to data-driven decision-making, I'm always excited to tackle challenging problems.
 
-📫 Interested in a collaboration or just want to chat about data science? Reach out via email at mrigankaghosh9@gmail.com or connect on LinkedIn: [LinkedIn Profile].
+📫 Interested in a collaboration or just want to chat about data science? Reach out via email at lopamudra.aiml@gmail.com or connect on LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/lopamudra-pradhan-76a69b21)].
 
 <!--
 **Lopa0007/Lopa0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
